@@ -34,15 +34,7 @@ Description: The system shall text a patient with their next appointment
   Rationale: If a patient is scheduled an appointment the clinic should send a text message to confirm the 
              appointment increasing patient attendance.
  Originator: Podiatrist (Brian)
-   Comments: [Justin Barnes] 
-
-     REQ-ID: MB05
-Description: The product shall provide the next available appointment after a given duration for a given therapist.
-       Type: Functional
-  Rationale: To be able to offer the patient an appointment with the correct therapist after the requested duration 
-             so they can choose whether to accept it.
- Originator: Office Manager (Carol)
-   Comments: [Ceri-anne Jackson] 
+   Comments: [Justin Barnes]
 
      REQ-ID: MB06
 Description: The product shall record booked appointments.
@@ -71,12 +63,5 @@ Description: The system shall record when therapists are available to see patien
 Description: The system shall record the amount that the patient needs to pay
        Type: Functional
   Rationale: The system needs to know the amount that the patient needs to pay in order to generate an invoice
- Originator: Office Manager (Carol)
-   Comments: [Tamsyn Murphy]
-
-    REQ-ID: TMM02
-Description: The system shall record the amount that the patient has paid
-       Type: Functional
-  Rationale: The patient needs to be given an invoice once payment is successful and this will also be used to generate a report
  Originator: Office Manager (Carol)
    Comments: [Tamsyn Murphy]
