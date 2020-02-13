@@ -96,14 +96,6 @@ Description: The system shall find a registered patient's data.
  Originator: Office Manager (Carol)
    Comments: [Zhi Kin Mok]   
 
-     REQ-ID: ZKM02
-Description: The system shall provide multiple suggestions for the next appointment around a given date in the schedule of the chosen therapist(s).
-       Type: Functional
-  Rationale: Multiple suggestions will provide an easier agreement with respect to the patient's agenda.
-			 The patient might have to see more than one therapist.
- Originator: Office Manager (Carol)
-   Comments: [Zhi Kin Mok]   
-
      REQ-ID: JM01
 Description: The system shall provide the available appointment date/times for a given therapist within a specified timescale 
        Type: Functional
@@ -161,7 +153,7 @@ Description: Update users appointment record once confirmed
    Comments: [Nicky Temperley]  
 
      REQ-ID:RH01
-Description:The system shall produce a report to view the list of patients for a season
+Description:The system shall produce a report to view the list of patients for a session
        Type:Functional
   Rationale:To save time in finding records for the treatment
  Originator:Neil and Office Manager
