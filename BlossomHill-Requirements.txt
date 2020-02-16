@@ -10,15 +10,7 @@ Description: The system shall allow an admin user to record details of an appoin
        Type: Functional
   Rationale: When a new appointment is created the details of the appointment need to be recorded on the system
  Originator: Office Manager (Carol)
-   Comments: [Matthew Bird] 
-   
-     REQ-ID: MB02
-Description: The system shall create an invoice for the health insurance company on the patients record
-       Type: Functional
-  Rationale: If a patient is paying for their treatment via a health insurance company invoices will need to
-             be generated for the insurer listed on the patients record
- Originator: Office Manager (Carol)
-   Comments: [Matthew Bird] 
+   Comments: [Matthew Bird]
 
      REQ-ID: MB03
 Description: The system shall provide patient details when they miss an appointment
@@ -35,13 +27,6 @@ Description: The system shall text a patient with their next appointment
              appointment increasing patient attendance.
  Originator: Podiatrist (Brian)
    Comments: [Justin Barnes]
-
-     REQ-ID: MB06
-Description: The product shall record booked appointments.
-       Type: Functional
-  Rationale: To be able to keep track of which patients are booked in with which therapists and when.
- Originator: Office Manager (Carol)
-   Comments: [Ceri-anne Jackson] 
 
      REQ-ID: JS01
 Description: The system shall record how patient's treatments are funded 
@@ -65,3 +50,67 @@ Description: The system shall record the amount that the patient needs to pay
   Rationale: The system needs to know the amount that the patient needs to pay in order to generate an invoice
  Originator: Office Manager (Carol)
    Comments: [Tamsyn Murphy]
+
+     REQ-ID: ZKM01
+Description: The system shall find a registered patient's data.
+       Type: Functional
+  Rationale: The receptionists need to be able to identify the patient before booking an appointment or producing an invoice.
+ Originator: Office Manager (Carol)
+   Comments: [Zhi Kin Mok]
+
+     REQ-ID: ZKM02
+Description: The system shall provide multiple suggestions for the next appointment around a given date in the schedule of the chosen therapist(s).
+       Type: Functional
+  Rationale: Multiple suggestions will provide an easier agreement with respect to the patient's agenda.
+			 The patient might have to see more than one therapist.
+ Originator: Office Manager (Carol)
+   Comments: [Zhi Kin Mok]
+
+     REQ-ID: JM02
+Description: The product shall generate an invoice to the patient’s insurer upon completion of a treatment if the patient is covered by health insurance
+       Type: Functional
+  Rationale: If the patient is covered by health insurance, an invoice will need to be issued to the insurer to recoup the cost of the treatment
+ Originator: Office Manager (Carol)
+   Comments: [John Murphy]
+
+     REQ-ID: KF01
+Description: The system shall record therapist type or category.
+       Type: Functional
+  Rationale: So that patients are able to find appropriate therapist.
+ Originator: Office Manager (Carol)
+   Comments: [Keisuke Funatsu]
+
+     REQ-ID: KF02
+Description: The system shall record the type of patients symptom
+       Type: Functional
+  Rationale: The therapist should know patients symptom previously  to give appropriate treatment.
+ Originator: Office Manager (Carol)
+   Comments: [Keisuke Funatsu]
+
+     REQ-ID:RH01
+Description:The system shall produce a report to view the list of patients for a season
+       Type:Functional
+  Rationale:To save time in finding records for the treatment
+ Originator:Neil and Office Manager
+   Comments: [Rahisha Hosker]
+
+ REQ-ID:RH02
+Description:The system shall produce a report for the no shows for appointments that did not get cancelled
+       Type:Functional
+  Rationale:To make sure that therapist time is used efficiently
+ Originator:Neil and Office Manager
+   Comments: [Rahisha Hosker]
+
+ REQ-ID:LK01
+Description:The product shall allow to record and validate filled treatment record submitted by a patient.
+       Type:Functional
+  Rationale:The business needs to be able to track patient’s appointments, times and their assigned therapists.
+ Originator:Office Manager and Receptionist
+   Comments: [Lukasz Korzen]
+
+ REQ-ID:LK02
+Description:The product shall allow to record a payment if patient is not covered by health insurer.
+       Type:Functional
+  Rationale:The system needs to record the amount paid by a patient (if patient is not covered by a health insurance), in order to keep track of finances and produce reports.
+ Originator:Office Manager and Receptionist
+   Comments: [Lukasz Korzen]
