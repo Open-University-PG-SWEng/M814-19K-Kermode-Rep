@@ -129,9 +129,3 @@ Description:The product shall allow to record and validate filled treatment reco
  Originator:Office Manager and Receptionist
    Comments: [Lukasz Korzen] 
 
- REQ-ID:LK02
-Description:The product shall allow to record a payment if patient is not covered by health insurer.
-       Type:Functional
-  Rationale:The system needs to record the amount paid by a patient (if patient is not covered by a health insurance), in order to keep track of finances and produce reports.
- Originator:Office Manager and Receptionist
-   Comments: [Lukasz Korzen] 
