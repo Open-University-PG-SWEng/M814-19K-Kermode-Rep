@@ -1,0 +1,7 @@
+REQ-ID: YK03
+Description: The system shall comply with the General Data Protection Regulation (GDPR)
+Type: 17 (Non-functional legal)
+Rationale: Patients must express written consent before the clinic sends them text messages, and must agree to receive these messages to their specific phone number
+Fit Criterion: The very first text message must be a compliance message with opt-in confirmation, explanation of how to opt-out, links to terms and conditions, and privacy policy
+Originator: General Data Protection Regulation (GDPR) EU: 2016/679
+Comments: [YK] Created on March 8th 2020
