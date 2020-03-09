@@ -1,0 +1,8 @@
+REQ-ID: JS03
+Description: The system shall distinguish clearly between available and unavailable appointment slots.
+Type: 11 (Usability)
+Rationale: The receptionists need to be able to efficiently negotiate and agree upon an appointment slot with a patient, either in person or over the phone.
+Fit Criterion: A receptionist shall be able to recognise an available appointment slot on a given date within 15 seconds.
+Originator: Elizabeth (Receptionist)
+Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+[JS] Created 06/03/2020. Inferred from an imaginary conversation with the receptionist
