@@ -6,4 +6,4 @@ Fit Criterion   : The appointment system shall respond within 3 seconds for 95% 
 Originator      : Justin Barnes
 Comments        : [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
-Comment         : [NT] This is my test comment
+Comment         : [JB] Created 09-03-2020
