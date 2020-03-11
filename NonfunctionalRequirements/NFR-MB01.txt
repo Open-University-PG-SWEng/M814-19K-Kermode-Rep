@@ -1,0 +1,9 @@
+        REQ-ID: NFRMB01
+   Description: The system shall return a list of potential appointments within a timely manner.
+          Type: Performance (12)
+     Rationale: For the receptionist to work efficiently and not hold up patients, the system will need to 	
+                return available appointments quickly.
+ Fit Criterion: The system will need to return a list of available appointments within 5 seconds of a request
+                coming in.
+    Originator: Office Manager (Carol)
+      Comments: []
