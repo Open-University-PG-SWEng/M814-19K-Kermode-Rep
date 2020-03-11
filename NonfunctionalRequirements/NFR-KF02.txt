@@ -1,0 +1,8 @@
+REQ-ID: KF02
+Description: The system shall have interfaces which are easy to find and select the preset of symptoms.
+Type: Type 10 Look and Feel
+Rationale: When recording symptom, it should be written in a fixed format as much as possible and system must have presets of popular symptom to help find symptom, but generally such number of presets are large and takes a long time to find right symptom, therefore the system will need to have user-friendly interfaces which enable the therapist to find symptom easily.
+Fit Criterion: The system will need to display symptoms in alphabetic, and categorized order with the proper font size and color of each category.
+Originator: Office Manager (Carol)
+Comments: 
+
