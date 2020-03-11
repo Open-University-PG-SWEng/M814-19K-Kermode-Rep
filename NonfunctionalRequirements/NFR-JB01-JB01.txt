@@ -8,4 +8,5 @@ Comments        : [M814-ModuleChair] Add comments below, making sure to include 
 
 Comment         : [JB] Created 09-03-2020
 
-[CJ] I'm not sure the second half of the fit criterion is needed. 95% within 3 seconds sounds reasonable, but committing to 100% within 5 seconds may be unrealistic given there is bound to be some down-time or connectivity issues at some point. 
+[CJ] I'm not sure the second half of the fit criterion is needed. 95% within 3 seconds sounds reasonable, but committing to 100% within 5 seconds may be unrealistic given there is bound to be some down-time or connectivity issues at some point.
+[TMM] I am in agreement with the first half, although I would probably drop it to 90% of the time.

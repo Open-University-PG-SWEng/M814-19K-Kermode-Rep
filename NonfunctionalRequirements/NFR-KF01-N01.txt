@@ -5,3 +5,4 @@ Rationale: So that new and existing patients are able to select an appropriate t
 Fit Criterion: Ninety five percent of bookings made are with an appropriate therapist.
 Originator: Office Manager (Carol)
 Comments: [APM] Fit criterion “agreed” by Office Manager as if a patient books with an incorrect therapist it can mean a wait for a new appointment with the correct therapist.  Errors will result in therapists not having the patient booked to see them and therefore lost revenue.
+[TMM] I am unclear of what an appropriate therapist means, shouldn't 100% of appointments be made with an appropriate therapist? You could state that the system should easily be able to see which type of an appointment they are booking.

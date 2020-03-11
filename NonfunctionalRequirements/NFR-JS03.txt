@@ -6,3 +6,4 @@ Fit Criterion: A receptionist shall be able to recognise an available appointmen
 Originator: Elizabeth (Receptionist)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [JS] Created 06/03/2020. Inferred from an imaginary conversation with the receptionist
+[TMM] This sounds reasonable and will help with usability, although I would suggest changing it to 5-10 seconds as 15 seconds seems too long.
