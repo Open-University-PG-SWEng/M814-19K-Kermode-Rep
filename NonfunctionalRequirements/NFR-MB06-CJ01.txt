@@ -4,4 +4,4 @@ Type: Security Requirements (Type 15)
 Rationale: It is important to ensure the accuracy of booked appointments as these will be used to plan sessions and used to work out which appointments have been missed.
 Fit Criterion: An authorised user can book an appointment if logged into the system, but cannot book an appointment if not logged in. Additionally, other unauthorised users cannot book appointments.
 Originator: Ceri-anne Jackson
-Comments: 
+Comments:
