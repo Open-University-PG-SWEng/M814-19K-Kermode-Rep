@@ -4,6 +4,7 @@ Type            : Performance Requirements – Type 12
 Rationale       : The appointment system must provide a timely response, thereby assisting and not blocking the appointment processes.
 Fit Criterion   : The appointment system shall respond within 3 seconds for 95% of its usage and within 5 seconds for the remaining 5%
 Originator      : Justin Barnes
+
 Comments        : [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 Comment         : [JB] Created 09-03-2020
