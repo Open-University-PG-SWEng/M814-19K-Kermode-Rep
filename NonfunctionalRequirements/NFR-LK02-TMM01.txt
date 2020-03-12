@@ -7,4 +7,4 @@ Originator: Tamsyn Murphy
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 Comment: [TMM] Created 11 March 2020
-         [JS] Well done as this is often overlooked. As there are potentially many disabilities to cover that would need to be addressed in different ways, it might be better ig fit criterion referenced some accessibility standard - i.e. something like "The product shall conform to the Web Content Accessibility Guidelines version 2.1, June 05 2018 (https://www.w3.org/TR/WCAG21/)" Not sure if there is a UK specific standard that could be referenced.
+         [JS] Well done as this is often overlooked. As there are potentially many disabilities to cover that would need to be addressed in different ways, it might be better if the fit criterion referenced some accessibility standard - i.e. something like "The product shall conform to the Web Content Accessibility Guidelines version 2.1, June 05 2018 (https://www.w3.org/TR/WCAG21/)" There may well be a UK specific standard that could be referenced.
