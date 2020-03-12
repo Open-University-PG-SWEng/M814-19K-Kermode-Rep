@@ -5,4 +5,4 @@ Rationale: When recording symptom, it should be written in a fixed format as muc
 Fit Criterion: The system will need to display symptoms in alphabetic, and categorized order with the proper font size and color of each category.
 Originator: Office Manager (Carol)
 Comments: 
-
+[JB] There may be additional value referencing UX; I don't feel this will be a factor in passing the Quality Gateway.
