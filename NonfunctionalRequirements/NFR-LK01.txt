@@ -11,3 +11,5 @@ Comment: [LK] Created 07-03-2020
          [KF] To make fit criterion clearer, I think showing the time limitation is useful, 
               such as the product shall return a response within 3 seconds at most.
 Comment: [YK] In my opinion, 'immediate feedback' in the Fit Criterion should be defined as a response within a time limit of 1 second.
+Comment: [JB] You could argue immediate is somewhat subjective, to pass the quality gateway it would need to be more objective.  
+                   For example, a response will be within 1 second 70% of the time and within 3 seconds within 30%.

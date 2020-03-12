@@ -6,3 +6,4 @@ Fit Criterion: An authorised user can book an appointment if logged into the sys
 Originator: Ceri-anne Jackson
 Comments: [KF] I would like to suggest that "Only authorized and logged in users can book appointments" is easier to understand.
 Comments: [YK] I suggest to rewrite the Fit Criterion to be more precise as following: Only authorised users, with 'therapist' or 'receptionist' roles, can book an appointment.
+Comments: [JB] The Fit Criteria looks ok to me, referring to authorised users is quite correct, as I feel stating a specific group(s) would be more of a functional requirement.
