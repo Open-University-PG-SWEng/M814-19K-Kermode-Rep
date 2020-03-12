@@ -5,3 +5,4 @@ Rationale: It is important to ensure the accuracy of booked appointments as thes
 Fit Criterion: An authorised user can book an appointment if logged into the system, but cannot book an appointment if not logged in. Additionally, other unauthorised users cannot book appointments.
 Originator: Ceri-anne Jackson
 Comments: [KF] I would like to suggest that "Only authorized and logged in users can book appointments" is easier to understand.
+Comments: [YK] I suggest to rewrite the Fit Criterion to be more precise as following: Only authorised users, with 'therapist' or 'receptionist' roles, can book an appointment.
