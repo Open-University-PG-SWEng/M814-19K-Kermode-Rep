@@ -13,4 +13,3 @@ Originator: Neil (Blossom Hill Clinic owner)
 
 Comments: [JM] Created 09/03/2020. 
 
-Comments: [JB] Cancelled within 3 seconds, I feel the description could be as follows: The system shall produce a report within 3 seconds, identifying missed appointments.

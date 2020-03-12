@@ -7,5 +7,3 @@
                 coming in.
     Originator: Office Manager (Carol)
       Comments: [JB] Would it be more realistic to categorise the response times; for example, 3 seconds 95% leaving 5% within 6 seconds.
-		[JB] Five seconds seems quite a long time to wait for a response from a system; I appreciate there are two separate locations. 
-                          If this is a factor in the response times, maybe some sort of caching to address this issue.
