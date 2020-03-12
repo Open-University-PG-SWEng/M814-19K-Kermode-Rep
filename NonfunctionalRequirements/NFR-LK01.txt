@@ -8,3 +8,5 @@ Originator: Lukasz Korzen
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 Comment: [LK] Created 07-03-2020
+         [KF] To make fit criterion clearer, I think showing the time limitation is useful, 
+              such as the product shall return a response within 3 seconds at most.
