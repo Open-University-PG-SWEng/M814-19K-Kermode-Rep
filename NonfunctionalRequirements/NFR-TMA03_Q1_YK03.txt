@@ -7,3 +7,4 @@ Originator: General Data Protection Regulation (GDPR) EU: 2016/679
 Comments: [YK] Created on March 8th 2020
 
 [CJ]: Is this fit criterion more of a requirement? Either way, it's worth being specific and stating that it's the first text message per user/customer/telephone number.
+[LK]: I'm not sure to which functional requirement is it referring to? I agree that the fit criterion should state that the message must sent to each customer. Also, I'm not sure but maybe it's worth adding something in the fit criterion, about that users won't be able to use the service if they don't accept terms and conditions?
