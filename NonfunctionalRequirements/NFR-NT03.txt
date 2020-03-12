@@ -1,0 +1,7 @@
+REQ-ID: NT03
+Description: The product should ensure only office staff should have access to patients personal details
+Type: 15
+Rationale: It may be that therapists are to use the system in the future, but they dont need personal details on a patient to record treatment details
+Fit Criterion: Of 1000 instances of access to patients details, none shall be from an account other than those of the office staff. 
+Originator: Office Manager, Carol
+Comments: 
