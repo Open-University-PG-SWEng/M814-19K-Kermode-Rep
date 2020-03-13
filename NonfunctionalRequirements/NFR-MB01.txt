@@ -6,4 +6,4 @@
  Fit Criterion: The system will need to return a list of available appointments within 5 seconds of a request
                 coming in.
     Originator: Office Manager (Carol)
-      Comments: [JB] Would it be more realistic to categorise the response times; for example, 3 seconds 95% leaving 5% within 6 seconds.
+      Comments: [JB] Would it be more realistic to categorise the response times; for example, 3 seconds 95% leaving 5% within 6 seconds; 5 seconds does seem quite a long time for all queries.

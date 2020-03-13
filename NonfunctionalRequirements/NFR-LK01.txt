@@ -12,5 +12,5 @@ Comment: [LK] Created 07-03-2020
               such as the product shall return a response within 3 seconds at most.
          [JM] I don’t think the fit criterion as it currently stands would pass the quality gateway as it is not measurable.  Instead of “immediately”, you may want to consider using a measureable time such as “within 5 seconds”.  The     same goes for the use of “accurate validation results”.  This could be made measureable by saying something like “95% accurate”.  Additionally, are there 2 separate elements to this NFR?  Would it be considered atomic? 
 Comment: [YK] In my opinion, 'immediate feedback' in the Fit Criterion should be defined as a response within a time limit of 1 second.
-Comment: [JB] You could argue immediate is somewhat subjective, to pass the quality gateway it would need to be more objective.  
-                   For example, a response will be within 1 second 70% of the time and within 3 seconds within 30%.
+Comment: [JB] You could argue immediate is somewhat subjective, to pass the quality gateway it would need to be more objective.
+                For example, a response will be within 1 second 70% of the time and within 3 seconds within 30%.
