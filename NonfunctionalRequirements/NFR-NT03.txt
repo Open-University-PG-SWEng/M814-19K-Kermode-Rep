@@ -1,0 +1,9 @@
+REQ-ID: NT03
+Description: The product should ensure only office staff should have access to patients personal details
+Type: 15
+Rationale: It may be that therapists are to use the system in the future, but they dont need personal details on a patient to record treatment details
+Fit Criterion: Of 1000 instances of access to patients details, none shall be from an account other than those of the office staff. 
+Originator: Office Manager, Carol
+Comments:
+[JS] Some of the data may need to be accesed - i.e. patient name, or last appointment date etc - so I think that "personal details" needs to be quantified and the access made more explicit. Also I don't feel that the "1000 instances" really makes the criterion any more measurable - perhaps it would be better worded as something like: "[some user role] shall not be able to access patient data that is marked as restricted as specified in the data dictionary. [some other user role] shall have unrestricted access." Clearly the data dictionary would need to be populated and referenced and the necessary user roles defined.
+[JM] I have a slightly differnt take on this requirement.  In my opinion the office staff should only have access to the basic patient details, i.e. name address and contact details.  Is it a possibility that therapists would need to access the system to see upcoming appointments, and if so, would they potentialy need access to medical data so that they can plan their session with the patient.  I agree with JS's comments above about making it explicit about certain users not being able to access the patient details.  I think the use of "1000 instance" just muddies the waters.

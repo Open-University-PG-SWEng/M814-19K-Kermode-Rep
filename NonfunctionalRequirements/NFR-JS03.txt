@@ -2,9 +2,10 @@ REQ-ID: JS03
 Description: The system shall distinguish clearly between available and unavailable appointment slots.
 Type: 11 (Usability)
 Rationale: The receptionists need to be able to efficiently negotiate and agree upon an appointment slot with a patient, either in person or over the phone.
-Fit Criterion: A receptionist shall be able to recognise an available appointment slot on a given date within 15 seconds.
+Fit Criterion: A receptionist shall be able to recognise an available appointment slot on a given date within 5 seconds.
 Originator: Elizabeth (Receptionist)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [JS] Created 06/03/2020. Inferred from an imaginary conversation with the receptionist
 [TMM] This sounds reasonable and will help with usability, although I would suggest changing it to 5-10 seconds as 15 seconds seems too long.
 [YK] I also consider a 15 second time limit, for recognition of an available appointment slot by a user, as too long and suggest to change it for a limit of 5 seconds.
+[JS] Updated the time limit specified in the criterion to 5 seconds as suggested.
