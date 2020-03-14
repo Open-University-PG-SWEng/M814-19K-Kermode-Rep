@@ -6,3 +6,6 @@ Fit Criterion: The system will need to display symptoms in alphabetic, and categ
 Originator: Office Manager (Carol)
 Comments: 
 
+
+Comment: [ZKM] "Proper" font size and color is hard to justify. I think you might want to add metrics such as approval/recognition by X users or something in that direction.
+

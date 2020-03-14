@@ -14,4 +14,5 @@ Originator: Neil (Blossom Hill Clinic owner)
 Comments: [JM] Created 09/03/2020. 
 
 	  [NT] I've been trying to think of a way to improve this requirement, but I cant. I think this passes all aspects of the quality gateway.
+	  [ZKM] The only thing that I can come up with is that you might want to add a "period to be considered" in the requirement as the load would be a lot heavier should the report go over the last 10 years compared to a month or so.
 
