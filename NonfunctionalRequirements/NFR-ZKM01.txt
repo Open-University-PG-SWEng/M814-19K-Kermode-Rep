@@ -6,3 +6,4 @@ Fit Criterion	: The system shall correctly provide the information a 1000 times 
 Originator		: Office Manager (Carol)
 
 Comments		: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
+Comments		: [APM] I would suggest that "1000 times" is incorrect and should "100% of the time".  It is suggesting that once it has provided the correct information 1000 times, it is OK to provide wrong information.
