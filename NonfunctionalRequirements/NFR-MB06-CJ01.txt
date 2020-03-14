@@ -2,7 +2,8 @@ REQ-ID: MB06-CJ01
 Description: The product shall ensure that only authorised users have access to book appointments
 Type: Security Requirements (Type 15)
 Rationale: It is important to ensure the accuracy of booked appointments as these will be used to plan sessions and used to work out which appointments have been missed.
-Fit Criterion: An authorised user can book an appointment if logged into the system, but cannot book an appointment if not logged in. Additionally, other unauthorised users cannot book appointments.
+Fit Criterion: Users must be authorised and logged into the system with a password to book an appointment. If a user is not authorised and/or not logged in they cannot book an appointment. Access shall be restricted to specific users who need to book appointments (e.g. receptionists).
+An authorised user can book an appointment if logged into the system, but cannot book an appointment if not logged in. Additionally, other unauthorised users cannot book appointments.
 Originator: Ceri-anne Jackson
 Comments: [KF] I would like to suggest that "Only authorized and logged in users can book appointments" is easier to understand.
 Comments: [YK] I suggest to rewrite the Fit Criterion to be more precise as following: Only authorised users, with 'therapist' or 'receptionist' roles, can book an appointment.
