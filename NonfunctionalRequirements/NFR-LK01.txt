@@ -1,8 +1,8 @@
 REQ-ID: LK01
-Description: Validating a treatment records process shall be optimised and accurate.
+Description: Validating a treatment records process shall be optimised.
 Type: Performance Requirements (Type 12)
-Rationale: New functionality should be able to perform accurate validation of the treatment record and give a response to the user in a short period of time in order to not block and allow for further actions.
-Fit Criterion: The product shall give immediately feedback with accurate validation results.
+Rationale: New functionality should be able to give a response to the user in a short period of time in order to not block and allow for further actions.
+Fit Criterion: The product shall give a feedback within 1 second 70% of the time and within 3 seconds within 30% of the time. with validation results.
 Originator: Lukasz Korzen
 
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
