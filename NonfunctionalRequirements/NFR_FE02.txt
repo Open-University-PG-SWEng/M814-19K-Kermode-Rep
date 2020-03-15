@@ -2,8 +2,10 @@ REQ-ID: NFR_FE02
 Description: The payments information should be produced and transmitted effortlessly to health insurance.
 Type: Performance Requirements – Type 12 
 Rationale: The receptionist will gain time if they don't have to take many actions every time an invoice has to be addressed to the health insurance.
-Fit Criterion: 70% of the invoices should be transmitted to the insurance with less than two actions taken by the receptionist. 
+Fit Criterion: 70% of the invoices should be transmitted to the insurance with no more than two actions taken by the receptionist. 
 Originator: Receptionist
 
 Comment: [FE] This is my test comment
 [CJ]: Can this be 100%? i.e. it should be possible to transmit all invoices with less than two actions? Less than 2 is the same as saying 1 action, so it's worth being more specific and changing it to either 1, or less than or equal to 2.
+Comment: [FE] I was considering that the receptionist may need to input information that cannot be automatised. For instance, the receptionist may need to input the personal identification number from the health insurance card for new customers. 
+              I've also changed "less than two" to no more than two, which effectively make more sense.
