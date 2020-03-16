@@ -1,12 +1,13 @@
 REQ-ID: LK02-TMM01
-Description: It should be easy for anyone to record payments on the system even if they have disabilities
+Description: The system should be accessible in order to adhere to The Public Sector Bodies (Websites and Mobile Applications) Accessibility Regulations 2018 (http://www.legislation.gov.uk/uksi/2018/852/contents/made)
 Type: 11 - Usability
-Rationale: If a user is disabled in any way then it should still be easy for them to use the system and record payments
-Fit Criterion: The user should be able to record a payment without the need of a mouse and with the ability to use a screen reader
+Rationale: We need to ensure that the system is usable by everyone, including those with any disabilities which will prevent them from using devices such as a mouse or without being able to see the system and need to rely on screen readers
+Fit Criterion: The user should be able to record a payment by using a screen reader and only using a keyboard
 Originator: Tamsyn Murphy
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 
 Comment: [TMM] Created 11 March 2020
          [JS] Well done as this is often overlooked. As there are potentially many disabilities to cover that would need to be addressed in different ways, it might be better if the fit criterion referenced some accessibility standard - i.e. something like "The product shall conform to the Web Content Accessibility Guidelines version 2.1, June 05 2018 (https://www.w3.org/TR/WCAG21/)" There may well be a UK specific standard that could be referenced.
          [LK] In your fit criterion you could state that payment is recorded using computer, because there could be some other kind of standalone terminals which don't require peripherals such as mouse. It's something small, but maybe worth mentioning?
-	 [NT] I think the fit criterion, while does mention alternative inputs, doesnt cover everything and could be seen as an inclusive list. It may be better written something like "The user should be able to interact fully with the system when using the most commonly used assistive technologies"
+	     [NT] I think the fit criterion, while does mention alternative inputs, doesnt cover everything and could be seen as an inclusive list. It may be better written something like "The user should be able to interact fully with the system when using the most commonly used assistive technologies"
+         [CJ] I think this is good to pass the quality gateway, I'd maybe just remove "the ability to" as that sounds a little ambiguous. Maybe "without the need of a mouse and using a screen reader".

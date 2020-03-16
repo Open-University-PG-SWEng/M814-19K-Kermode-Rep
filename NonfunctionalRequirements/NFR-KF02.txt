@@ -1,6 +1,6 @@
 REQ-ID: KF02
 Description: The system shall have interfaces which are easy to find and select the preset of symptoms.
-Type: Type 10 Look and Feel
+Type: 11 Usability
 Rationale: When recording symptom, it should be written in a fixed format as much as possible and system must have presets of popular symptom to help find symptom, but generally such number of presets are large and takes a long time to find right symptom, therefore the system will need to have user-friendly interfaces which enable the therapist to find symptom easily.
 Fit Criterion: The system will need to display symptoms in alphabetic, and categorized order with the proper font size and color of each category.
 Originator: Office Manager (Carol)
@@ -9,4 +9,4 @@ Comments:
 
 Comment: [ZKM] "Proper" font size and color is hard to justify. I think you might want to add metrics such as approval/recognition by X users or something in that direction.
 Comment: [APM] I agree that "Proper font size and color" is hard to justify. I think it should refer to agreed design standards that have researched or used previously.
-
+Comment: [FE] I think using a time condition for the fit criterion would be apropirate. Somthing like: the therapist should be able to find a symptom in less than 30 sec. 

@@ -6,6 +6,6 @@ Fit Criterion: A receptionist shall be able to recognise an available appointmen
 Originator: Elizabeth (Receptionist)
 Comments: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
 [JS] Created 06/03/2020. Inferred from an imaginary conversation with the receptionist
-[TMM] This sounds reasonable and will help with usability, although I would suggest changing it to 5-10 seconds as 15 seconds seems too long.
+[TMM] This sounds reasonable and will help with usability, although I would suggest changing it to 5-10 seconds as 15 seconds seems too long. I believe this should pass the quality gateway.
 [YK] I also consider a 15 second time limit, for recognition of an available appointment slot by a user, as too long and suggest to change it for a limit of 5 seconds.
 [JS] Updated the time limit specified in the criterion to 5 seconds as suggested.
