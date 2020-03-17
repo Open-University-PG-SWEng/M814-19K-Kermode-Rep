@@ -10,4 +10,4 @@ Comments:
 
 Comment: [ZKM] "Proper" font size and color is hard to justify. I think you might want to add metrics such as approval/recognition by X users or something in that direction.
 Comment: [APM] I agree that "Proper font size and color" is hard to justify. I think it should refer to agreed design standards that have researched or used previously.
-
+Comment: [FE] I think using a time condition for the fit criterion would be apropirate. Somthing like: the therapist should be able to find a symptom in less than 30 sec. 
