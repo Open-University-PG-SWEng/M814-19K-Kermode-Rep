@@ -3,7 +3,6 @@
           Type: Performance (12)
      Rationale: For the receptionist to work efficiently and not hold up patients, the system will need to 	
                 return available appointments quickly.
- Fit Criterion: The system will need to return a list of available appointments within 5 seconds of a request
-                coming in.
+ Fit Criterion: The system will need to return a list of available appointments within 3 seconds for 95% of requests and within 5 seconds for the remaining 5% of requests.
     Originator: Office Manager (Carol)
       Comments: [JB] Would it be more realistic to categorise the response times; for example, 3 seconds 95% leaving 5% within 6 seconds; 5 seconds does seem quite a long time for all queries.
