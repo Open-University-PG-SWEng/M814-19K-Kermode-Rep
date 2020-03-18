@@ -7,7 +7,7 @@ Type: 12 (Performance Requirement)
 
 Rationale: Clinic staff need the ability to identify those clients who have missed appointments without first cancelling, together with details of the appointment, so that an appropriate invoice can be issued to the client thereby ensuring the clinic does not incur a loss in revenue due to missed appointments.  It will also serve to identify repeat offenders with a view to removing them from the Clinic’s business list. 
 
-Fit Criterion: The system shall produce 98% of reports detailing the missed appointments which were not previously cancelled within 3 seconds of the report being requested by an authorised user 
+Fit Criterion: The system shall produce 98% of reports detailing the missed appointments which were not previously cancelled, where the reporting period requested is not more than 3 months, within 3 seconds of the report being requested by clinic staff 
 
 Originator: Neil (Blossom Hill Clinic owner) 
 
