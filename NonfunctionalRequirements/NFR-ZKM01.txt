@@ -2,7 +2,7 @@ REQ-ID			: NFR-ZKM-01
 Description		: The system shall provide accurate information about a patient's registered data.
 Type			: Security Requirements (Type 15)
 Rationale		: It is important that information about a patient never get mixed up with others as it might lead to critical and legal consequences.
-Fit Criterion	: The system shall correctly provide the information a 1000 times without failing even once.
+Fit Criterion	: The system shall correctly provide the information about a patient 100% of the time.
 Originator		: Office Manager (Carol)
 
 Comments		: [M814-ModuleChair] Add comments below, making sure to include your initials in [] at the start.
